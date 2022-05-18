@@ -7,7 +7,7 @@
    ```
 
 2. ```
-   git clone 
+   git clone https://github.com/enochliang/gaussian_riscv_vp.git
    ```
 
 3. ```shell
